@@ -9,5 +9,5 @@ sambita-sunayana/sambita-sunayana is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ### Here are my projects.
-- [Basic express app with crud operation](https://github.com/sambita-sunayana/expressAPI) 
-- [Basic word and letter calculator oeration](https://github.com/sambita-sunayana/reactProjects)
+- [Basic Express App with CRUD Operation](https://github.com/sambita-sunayana/expressAPI) 
+- [Basic Word and letter Calculator Operation](https://github.com/sambita-sunayana/reactProjects)
