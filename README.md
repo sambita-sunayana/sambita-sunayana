@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sambita-sunayana
-- 👀 I’m interested in programming .
+- 👋 Hi, I’m Sambita Sunayana
 - 🌱 I’m currently learning coding
-- 📫 How to reach me samb.sun@gmail.com
-- My linkedin profile https://www.linkedin.com/in/sambita-sunayana-03538a327/
+- 📫 How to reach me:samb.sun@gmail.com
+- 💬 My linkedin profile: https://www.linkedin.com/in/sambita-sunayana-03538a327/
 
 <!---
 sambita-sunayana/sambita-sunayana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
