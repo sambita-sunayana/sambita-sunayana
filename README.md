@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Here are my projects.
 - [Basic express app with crud operation](https://github.com/sambita-sunayana/expressAPI) 
-- [basic word and letter calculator oeration](https://github.com/sambita-sunayana/reactProjects)
+- [Basic word and letter calculator oeration](https://github.com/sambita-sunayana/reactProjects)
